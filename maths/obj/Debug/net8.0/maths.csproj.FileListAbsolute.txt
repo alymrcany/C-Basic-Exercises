@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\bin\Debug\net8.0\maths.exe
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\bin\Debug\net8.0\maths.deps.json
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\bin\Debug\net8.0\maths.runtimeconfig.json
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\bin\Debug\net8.0\maths.dll
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\bin\Debug\net8.0\maths.pdb
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\maths.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\maths.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\maths.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\maths.sourcelink.json
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\maths.dll
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\refint\maths.dll
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\maths.pdb
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\maths.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\maths\obj\Debug\net8.0\ref\maths.dll

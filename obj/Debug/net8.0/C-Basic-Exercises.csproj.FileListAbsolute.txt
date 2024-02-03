@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\bin\Debug\net8.0\C-Basic-Exercises.exe
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\bin\Debug\net8.0\C-Basic-Exercises.deps.json
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\bin\Debug\net8.0\C-Basic-Exercises.runtimeconfig.json
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\bin\Debug\net8.0\C-Basic-Exercises.dll
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\bin\Debug\net8.0\C-Basic-Exercises.pdb
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\C-Basic-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\C-Basic-Exercises.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\C-Basic-Exercises.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\C-Basic-Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\C-Basic-Exercises.sourcelink.json
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\C-Basic-Exercises.dll
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\refint\C-Basic-Exercises.dll
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\C-Basic-Exercises.pdb
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\C-Basic-Exercises.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Allyza Github Files - Do not Touch\C-Basic-Exercises\obj\Debug\net8.0\ref\C-Basic-Exercises.dll
